@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\bin\Debug\Todo.exe.config
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\bin\Debug\Todo.exe
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\bin\Debug\Todo.pdb
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.Form1.resources
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.Properties.Resources.resources
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.exe
+C:\Users\USER\Documents\Project\Landmark\Todo\Todo\obj\Debug\Todo.pdb
